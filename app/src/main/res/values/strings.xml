@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Be Focused</string>
+    <string name="homeTitle">Параметры будильника</string>
+    <string name="alarmName">Название будильника</string>
+    <string name="alarmNameHint">Введите название будильника</string>
+    <string name="time">Выбор времени</string>
+    <string name="day">Выбор дня</string>
+    <string name="ringtone">Выбор мелодии</string>
+    <string name="repeat">Повторять</string>
+    <string name="check">Поменять вид календаря</string>
+    <string name="ringTitle">Выбор рингтона</string>
+    <string name="start">Проигрывать</string>
+    <string name="back">Установить</string>
+    <string name="stop">Остановить</string>
+    <string name="taskHint">Введите новое задание</string>
+    <string name="task">Новое задание</string>
+    <string name="alarmListTitle">Список будильников</string>
+    <string name="todoName">Введите новое задание</string>
+    <string name="todoNameTitle">Заметка</string>
+    <string name="switcher">Поменять тему</string>
+    <string name="cancel">Выключить будильник</string>
+    <string name="mode">Поменять тему</string>
+</resources>
